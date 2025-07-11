@@ -1,0 +1,10 @@
+OrderID,OrderDate,Product,Category,City,Quantity,Price,CustomerType,TotalSales,Month
+1001,15-01-2024,Laptop,Electronics,Delhi,2,70000,New,140000,1
+1002,25-01-2024,Smartphone,Electronics,Mumbai,1,50000,Returning,50000,1
+1003,12-02-2024,Tablet,Electronics,Bangalore,3,20000,New,60000,2
+1004,28-02-2024,Laptop,Electronics,Delhi,1,70000,Returning,700000000,2
+1005,05-03-2024,Smartwatch,Accessories,Mumbai,4,15000,New,60000,3
+1006,15-03-2024,Smartphone,Electronics,Delhi,2,50000,New,100000,3
+1007,20-03-2024,Tablet,Electronics,Bangalore,2,20000,Returning,40000,3
+1008,30-03-2024,Laptop,Electronics,Chennai,1,70000,New,70000,3
+1009,30-03-2024,Earphones,Electronics,,6,5000,New,32000000,1
