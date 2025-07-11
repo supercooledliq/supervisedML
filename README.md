@@ -1,2 +1,2 @@
 # supervisedMLprojects
-Trying out Supervised and Unsupervised algos on ML models
+Trying out Supervised algos on ML models
